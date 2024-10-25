@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Erich a profesional data anlyst
-[[gmail badge]] 
+
 I'm Erich, a proffesional data analyst current going through triple tens bia program. I'm versed in programs like google sheets, sql, tableau, and power bi. I'm looking to make a great adition to a company and show my skills on a technical, personal, and proffesional way.
 
 Some facts about me:
